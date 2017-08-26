@@ -1,45 +1,49 @@
-id,first_name
-0,Brendan
-1,Anton
-2,Hanna
-3,Kylie
-4,Paul
-5,John
-6,Camilla
-7,Erin
-8,Nicole
-9,Hazel
-10,Ian
-11,Lilia
-12,Darren
-13,Matthew
-14,Andrew
-15,Karen
-16,Izabella
-17,Ola
-18,Flavia
-19,Vincent
-20,James
-21,Hayley
-22,Kristina
-23,Brian
-24,Aliona
-25,Katya
-26,Natalie
-27,Robin
-28,Jared
-29,Artem
-30,Pasha
-31,Brendan*
-32,Iveta
-33,Kevin
-34,Janette
-35,Anya
-36,Alja_
-37,Joanne
-38,Trent
-39,Tristan
-40,Aljaz
-41,Oti
-42,Gleb
-43,Giovanni
+id,name
+0,Brendan Cole
+1,Anton du Beke
+2,Hanna Karttunen
+3,Kylie Jones
+4,Paul Killick
+5,John Byrness
+6,Camilla Dallerup
+7,Erin Boag
+8,Nicole Cutler
+9,Hazel Newberry
+10,Ian Waite
+11,Lilia Kopylova
+12,Darren Bennett
+13,Matthew Cutler
+14,Hanna Haarala
+15,Andrew Cuerden
+16,Karen Hardy
+17,Izabela Hannah
+18,Ola Jordan
+19,Flavia Cacace
+20,Vincent Simone
+21,James Jordan
+22,Hayley Holt
+23,Kristina Rihanoff
+24,Brian Fortuna
+25,Aliona Vilani
+26,Katya Virshilas
+27,Natalie Lowe
+28,Robin Windsor
+29,Jared Murillo
+30,Artem Chigvintsev
+31,Pasha Kovalev
+32,Karen Hauer
+33,Iveta Lukosiute
+34,Kevin Clifton
+35,Janette Manrara
+36,Anya Garnis
+37,Aljaž Skorjanec
+38,Joanne Clifton
+39,Trent Whiddon
+40,Tristan MacManus
+41,Oti Mabuse
+42,Gleb Savchenko
+43,Karen Clifton
+44,Giovanni Pernice
+45,Oksana Platero
+46,Gorka Márquez
+47,Katya Jones
