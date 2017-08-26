@@ -7,4 +7,38 @@ The [Strictly Come Dancing](http://www.bbc.co.uk/strictlycomedancing/) Results O
  * Celebrities
  * Professionals
  * Results
- 
+
+## Reading into a database
+
+Using PostgreSQL
+
+```sql
+CREATE DATABASE strictly_results;
+
+\connect strictly_results;
+
+CREATE TABLE IF NOT EXISTS results (
+    celebrity TEXT,
+    professional TEXT,
+    dance TEXT,
+    song TEXT,
+    series INTEGER,
+    week INTEGER,
+    running_order INTEGER,
+    score_craig INTEGER,
+    score_arlene INTEGER,
+    score_len INTEGER,
+    score_bruno INTEGER,
+    score_alesha INTEGER,
+    score_darcey INTEGER,
+    score_jennifer INTEGER,
+    score_donny INTEGER,
+    total INTEGER
+);
+
+COPY results FROM '/<absolute-path-to>/results.csv' WITH CSV HEADER;
+```
+
+## Data
+
+This data was initially sourced from [Ultimate Strictly](http://www.ultimatestrictly.com/) with augmentation from Wikipedia.
