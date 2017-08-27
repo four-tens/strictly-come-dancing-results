@@ -795,7 +795,7 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 103,30,Kara Tointon,Artem Chigvintsev,American Smooth,Cry Me A River,8,12,10,10,0,7,10,10,0,0,0,37
 104,30,Holly Valance,Artem Chigvintsev,Cha-cha-cha,Who's That Chick,9,1,1,6,0,7,7,8,0,0,0,28
 105,26,Dan Lobb,Katya Virshilas,Waltz,Are You Lonesome Tonight?,9,1,2,4,0,7,6,7,0,0,0,24
-106,0,Lula,Brendan Cole,Cha-cha-cha,I've Got The Music In Me,9,1,3,2,0,5,5,5,0,0,0,17
+106,0,Lulu,Brendan Cole,Cha-cha-cha,I've Got The Music In Me,9,1,3,2,0,5,5,5,0,0,0,17
 107,27,Audley Harrison,Natalie Lowe,Waltz,In The Arms Of An Angel,9,1,4,3,0,5,6,6,0,0,0,20
 108,18,Robbie Savage,Ola Jordan,Cha-cha-cha,Bad Boys,9,1,5,2,0,6,5,6,0,0,0,19
 109,28,Anita Dobson,Robin Windsor,Waltz,Three Times A Lady,9,1,6,7,0,7,7,7,0,0,0,28
@@ -812,7 +812,7 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 107,27,Audley Harrison,Natalie Lowe,Salsa,Don't Stop 'Til You Get Enough,9,2,3,5,0,6,6,6,0,0,0,23
 113,21,Alex Jones,James Jordan,Foxtrot,Have You Met Miss Jones?,9,2,4,6,0,8,8,7,0,0,0,29
 105,26,Dan Lobb,Katya Virshilas,Salsa,Upside Down,9,2,5,4,0,6,5,6,0,0,0,21
-106,0,Lula,Brendan Cole,Foxtrot,Breakeven,9,2,6,5,0,6,7,7,0,0,0,25
+106,0,Lulu,Brendan Cole,Foxtrot,Breakeven,9,2,6,5,0,6,7,7,0,0,0,25
 104,30,Holly Valance,Artem Chigvintsev,Salsa,Mas Que Nada,9,2,7,7,0,7,8,8,0,0,0,30
 112,7,Rory Bremner,Erin Boag,Salsa,Vehicle,9,2,8,4,0,6,6,6,0,0,0,22
 108,18,Robbie Savage,Ola Jordan,Foxtrot,Ain't That A Kick In The Head,9,2,9,7,0,8,7,7,0,0,0,29
@@ -826,7 +826,7 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 109,28,Anita Dobson,Robin Windsor,Jive,You Can't Stop The Beat,9,3,3,6,0,7,7,7,0,0,0,27
 113,21,Alex Jones,James Jordan,Viennese Waltz,Memory,9,3,4,8,0,8,8,8,0,0,0,32
 112,7,Rory Bremner,Erin Boag,Quickstep,"Top Hat, White Tie and Tails",9,3,5,7,0,8,8,8,0,0,0,31
-106,0,Lula,Brendan Cole,Rumba,All I Ask Of You,9,3,6,5,0,7,7,7,0,0,0,26
+106,0,Lulu,Brendan Cole,Rumba,All I Ask Of You,9,3,6,5,0,7,7,7,0,0,0,26
 116,1,Nancy Dell'Olio,Anton du Beke,Tango,Be Italian,9,3,7,4,0,5,6,5,0,0,0,20
 107,27,Audley Harrison,Natalie Lowe,Quickstep,Too Darn Hot,9,3,8,5,0,6,7,6,0,0,0,24
 108,18,Robbie Savage,Ola Jordan,Tango,"Gimme, Gimme, Gimme",9,3,9,7,0,7,8,8,0,0,0,30
@@ -839,7 +839,7 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 112,7,Rory Bremner,Erin Boag,Cha-cha-cha,Dance To The Music,9,4,3,4,0,7,7,6,0,0,0,24
 107,27,Audley Harrison,Natalie Lowe,Foxtrot,I Don't Know What To Do With Myself,9,4,4,6,0,7,6,6,0,0,0,25
 116,1,Nancy Dell'Olio,Anton du Beke,Paso Doble,Rodrigo's Guitar Concerto,9,4,5,3,0,5,5,5,0,0,0,18
-106,0,Lula,Brendan Cole,Samba,Sir Duke,9,4,6,5,0,6,7,7,0,0,0,25
+106,0,Lulu,Brendan Cole,Samba,Sir Duke,9,4,6,5,0,6,7,7,0,0,0,25
 104,30,Holly Valance,Artem Chigvintsev,Viennese Waltz,Cry Me Out,9,4,7,7,0,7,8,8,0,0,0,30
 114,31,Chelsee Healey,Pasha Kovalev,Quickstep,"Sing, Sing, Sing",9,4,8,9,0,9,9,9,0,0,0,36
 111,25,Harry Judd,Aliona Vilani,Waltz,Come Away With Me,9,4,9,8,0,8,9,10,0,0,0,35
@@ -855,9 +855,9 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 111,25,Harry Judd,Aliona Vilani,Tango,Psycho Killer,9,5,7,8,0,7,9,10,0,0,0,34
 108,18,Robbie Savage,Ola Jordan,Paso Doble,Bad,9,5,8,4,0,7,7,8,0,0,0,26
 109,28,Anita Dobson,Robin Windsor,Tango,Devil Woman,9,5,9,7,0,8,8,8,0,0,0,31
-106,0,Lula,Brendan Cole,Paso Doble,Highway To Hell,9,5,10,6,0,7,8,8,0,0,0,29
+106,0,Lulu,Brendan Cole,Paso Doble,Highway To Hell,9,5,10,6,0,7,8,8,0,0,0,29
 117,23,Jason Donovan,Kristina Rihanoff,Quickstep,Bewitched,9,5,11,9,0,9,9,10,0,0,0,37
-106,0,Lula,Brendan Cole,Tango,Kiss,9,6,1,5,0,0,7,7,0,8,0,27
+106,0,Lulu,Brendan Cole,Tango,Kiss,9,6,1,5,0,0,7,7,0,8,0,27
 107,27,Audley Harrison,Natalie Lowe,Viennese Waltz,I'm With You,9,6,2,5,0,0,7,7,0,8,0,27
 111,25,Harry Judd,Aliona Vilani,Samba,I Wish,9,6,3,8,0,0,8,8,0,9,0,33
 109,28,Anita Dobson,Robin Windsor,Charleston,I Got Rhythm,9,6,4,7,0,0,8,8,0,8,0,31
