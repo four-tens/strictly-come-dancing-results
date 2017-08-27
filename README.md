@@ -18,6 +18,8 @@ CREATE DATABASE strictly_results;
 \connect strictly_results;
 
 CREATE TABLE IF NOT EXISTS results (
+    celebrity_id INTEGER,
+    professional_id INTEGER,
     celebrity TEXT,
     professional TEXT,
     dance TEXT,
@@ -41,4 +43,4 @@ COPY results FROM '/<absolute-path-to>/results.csv' WITH CSV HEADER;
 
 ## Data
 
-This data was initially sourced from [Ultimate Strictly](http://www.ultimatestrictly.com/) with augmentation from Wikipedia.
+This data was initially sourced and collated from [Ultimate Strictly](http://www.ultimatestrictly.com/), manually sanitised and normalised, with additional data sourced from Wikipedia.
