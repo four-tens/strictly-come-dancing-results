@@ -531,7 +531,7 @@ Rachel Stevens,Vincent Simone,Show dance,Flashdance...What a Feeling,6,14,8,0,0,
 Tom Chambers,Camilla Dallerup,Show dance,If My Friends Could See Me Now,6,14,9,0,0,0,0,0,0,0,0,0
 Rav Wilding,Aliona Vilani,Tango,Baby Did A Bad Bad Thing,7,1,1,3,0,6,5,5,0,0,0,19
 Jade Johnson,Ian Waite,Cha-cha-cha,Ain't No Other Man,7,1,1,6,0,7,7,7,0,0,0,27
-Ricky Grove,Erin Boag,Waltz,What'll I Do,7,1,2,4,0,6,5,6,0,0,0,21
+Ricky Groves,Erin Boag,Waltz,What'll I Do,7,1,2,4,0,6,5,6,0,0,0,21
 Ali Bastian,Brian Fortuna,Rumba,That's What Friends Are For,7,1,2,7,0,7,8,8,0,0,0,30
 Chris Hollins,Ola Jordan,Tango,Sharp Dressed Man,7,1,3,6,0,7,6,7,0,0,0,26
 Lynda Bellingham,Darren Bennett,Cha-cha-cha,Don't Go Breaking My Heart,7,1,3,5,0,6,6,6,0,0,0,23
@@ -544,7 +544,7 @@ Joe Calzaghe,Kristina Rihanoff,Cha-cha-cha,Chain of Fools,7,1,6,2,0,5,4,5,0,0,0,
 Ali Bastian,Brian Fortuna,Waltz,Reach Out And Touch,7,1,7,7,0,8,7,8,0,0,0,30
 Martina Hingis,Matthew Cutler,Rumba,Alone,7,1,7,5,0,6,6,7,0,0,0,24
 Joe Calzaghe,Kristina Rihanoff,Tango,Cite Tango,7,1,8,2,0,5,4,5,0,0,0,16
-Ricky Grove,Erin Boag,Cha-cha-cha,Jump,7,1,8,6,0,7,6,7,0,0,0,26
+Ricky Groves,Erin Boag,Cha-cha-cha,Jump,7,1,8,6,0,7,6,7,0,0,0,26
 Natalie Cassidy,Vincent Simone,Tango,Spider Of The Night,7,2,1,6,0,6,6,6,0,0,0,24
 Phil Tufnell,Katya Virshilas,Cha-cha-cha,Daddy,7,2,1,4,0,6,6,6,0,0,0,22
 Zöe Lucker,James Jordan,Waltz,Some Day My Prince Will Come,7,2,2,7,0,8,8,7,0,0,0,30
@@ -574,7 +574,7 @@ Joe Calzaghe,Kristina Rihanoff,Paso Doble,Livin' On A Prayer,7,3,10,3,0,5,5,6,0,
 Laila Rouass,Anton du Beke,Quickstep,Strike Up The Band,7,3,11,8,0,8,7,7,0,0,0,30
 Jo Wood,Brendan Cole,Paso Doble,Because The Night,7,3,12,3,0,6,5,6,0,0,0,20
 Phil Tufnell,Katya Virshilas,Quickstep,Put On A Happy Face,7,3,13,5,0,6,7,6,0,0,0,24
-Ricky Grove,Erin Boag,Paso Doble,One Vision,7,3,14,7,0,7,7,8,0,0,0,29
+Ricky Groves,Erin Boag,Paso Doble,One Vision,7,3,14,7,0,7,7,8,0,0,0,29
 Zöe Lucker,James Jordan,Foxtrot,This Will Be (An Everlasting Love),7,4,1,8,0,9,8,8,0,0,0,33
 Chris Hollins,Ola Jordan,Salsa,Micaela,7,4,2,5,0,6,7,7,0,0,0,25
 Lynda Bellingham,Darren Bennett,Foxtrot,Calendar Girl,7,4,3,5,0,7,6,6,0,0,0,24
@@ -586,9 +586,9 @@ Laila Rouass,Anton du Beke,Foxtrot,Just In Time,7,4,8,8,0,9,8,9,0,0,0,34
 Ricky Whittle,Natalie Lowe,Salsa,Dancing Machine,7,4,9,8,0,8,8,8,0,0,0,32
 Craig Kelly,Flavia Cacace,Foxtrot,Sometimes When We Touch,7,4,10,5,0,7,6,6,0,0,0,24
 Jade Johnson,Ian Waite,Salsa,La Isla Bonita,7,4,11,7,0,7,7,8,0,0,0,29
-Ricky Grove,Erin Boag,Foxtrot,All Of Me,7,4,12,6,0,8,7,7,0,0,0,28
+Ricky Groves,Erin Boag,Foxtrot,All Of Me,7,4,12,6,0,8,7,7,0,0,0,28
 Phil Tufnell,Katya Virshilas,Salsa,Long Train Running,7,4,13,4,0,7,7,6,0,0,0,24
-Ricky Grove,Erin Boag,Jive,Boy From New York City,7,5,1,6,0,7,5,7,0,0,0,25
+Ricky Groves,Erin Boag,Jive,Boy From New York City,7,5,1,6,0,7,5,7,0,0,0,25
 Jade Johnson,Ian Waite,Viennese Waltz,This Is A Man's World,7,5,2,8,0,9,9,9,0,0,0,35
 Ali Bastian,Brian Fortuna,Jive,Tutti Fruiti,7,5,3,6,0,7,8,8,0,0,0,29
 Jo Wood,Brendan Cole,Viennese Waltz,Trouble,7,5,4,5,0,7,5,6,0,0,0,23
@@ -605,7 +605,7 @@ Chris Hollins,Ola Jordan,American Smooth,Jimmy Mack,7,6,2,7,0,7,7,7,0,0,0,28
 Phil Tufnell,Katya Virshilas,Samba,Daddy Cool,7,6,3,6,0,7,6,6,0,0,0,25
 Zöe Lucker,James Jordan,American Smooth,My Girl,7,6,4,8,0,8,8,9,0,0,0,33
 Craig Kelly,Flavia Cacace,Samba,Give It Up,7,6,5,3,0,6,5,4,0,0,0,18
-Ricky Grove,Erin Boag,American Smooth,Chim-Chim-Cheree,7,6,6,7,0,8,7,7,0,0,0,29
+Ricky Groves,Erin Boag,American Smooth,Chim-Chim-Cheree,7,6,6,7,0,8,7,7,0,0,0,29
 Ricky Whittle,Natalie Lowe,Samba,Good Lovin',7,6,7,8,0,8,8,8,0,0,0,32
 Natalie Cassidy,Vincent Simone,American Smooth,Please Don't Talk About Me When I'm Gone,7,6,8,7,0,8,7,7,0,0,0,29
 Jo Wood,Brendan Cole,Samba,Superstition,7,6,9,2,0,5,4,3,0,0,0,14
@@ -617,7 +617,7 @@ Craig Kelly,Flavia Cacace,Waltz,Don't Let The Sun Go Down On Me,7,7,3,5,0,7,5,7,
 Chris Hollins,Ola Jordan,Cha-cha-cha,Shake Your Groove Thing,7,7,4,7,0,8,7,7,0,0,0,29
 Jade Johnson,Ian Waite,Foxtrot,Recipe For Love,7,7,5,8,0,9,9,9,0,0,0,35
 Zöe Lucker,James Jordan,Samba,Boogie Nights,7,7,6,7,0,8,8,9,0,0,0,32
-Ricky Grove,Erin Boag,Rumba,License To Kill,7,7,7,4,0,8,5,7,0,0,0,24
+Ricky Groves,Erin Boag,Rumba,License To Kill,7,7,7,4,0,8,5,7,0,0,0,24
 Laila Rouass,Anton du Beke,Viennese Waltz,Once Around The Block,7,7,8,8,0,9,8,8,0,0,0,33
 Phil Tufnell,Katya Virshilas,Tango,Back To Black,7,7,9,7,0,7,8,8,0,0,0,30
 Ricky Whittle,Natalie Lowe,Quickstep,Down With Love,7,7,10,9,0,10,10,10,0,0,0,39
@@ -625,14 +625,14 @@ Ricky Whittle,Natalie Lowe,Tango,You Really Got Me,7,8,1,8,0,9,9,9,0,0,0,35
 Natalie Cassidy,Vincent Simone,Quickstep,Tu Vuo' Fa' L'Americano,7,8,2,7,0,8,8,8,0,0,0,31
 Jade Johnson,Ian Waite,Jive,"Flip, Flop And Fly",7,8,3,8,0,8,8,9,0,0,0,33
 Ali Bastian,Brian Fortuna,Viennese Waltz,"Do Right Woman, Do Right",7,8,4,10,0,10,10,10,0,0,0,40
-Ricky Grove,Erin Boag,Salsa,Acuyuye,7,8,5,6,0,7,6,6,0,0,0,25
+Ricky Groves,Erin Boag,Salsa,Acuyuye,7,8,5,6,0,7,6,6,0,0,0,25
 Laila Rouass,Anton du Beke,Paso Doble,Layla,7,8,6,7,0,7,8,8,0,0,0,30
 Phil Tufnell,Katya Virshilas,Rumba,Maybe I'm Amazed,7,8,7,6,0,8,7,7,0,0,0,28
 Chris Hollins,Ola Jordan,Foxtrot,I Could Have Danced All Night,7,8,8,8,0,9,8,9,0,0,0,34
 Craig Kelly,Flavia Cacace,Cha-cha-cha,Easy Lover,7,8,9,3,0,5,5,4,0,0,0,17
 Phil Tufnell,Katya Virshilas,American Smooth,Come Fly With Me,7,9,1,7,0,8,8,8,0,0,0,31
 Ricky Whittle,Natalie Lowe,Jive,Rip It Up,7,9,2,8,0,9,9,9,0,0,0,35
-Ricky Grove,Erin Boag,Viennese Waltz,Nights In White Satin,7,9,3,7,0,8,7,7,0,0,0,29
+Ricky Groves,Erin Boag,Viennese Waltz,Nights In White Satin,7,9,3,7,0,8,7,7,0,0,0,29
 Chris Hollins,Ola Jordan,Paso Doble,I Believe In A Thing Called Love,7,9,4,6,0,8,7,9,0,0,0,30
 Laila Rouass,Anton du Beke,Rumba,Rule The World,7,9,5,3,0,7,6,6,0,0,0,22
 Natalie Cassidy,Vincent Simone,Foxtrot,Magic Moments,7,9,6,8,0,9,8,9,0,0,0,34
@@ -642,7 +642,7 @@ Natalie Cassidy,Vincent Simone,Samba,Holiday,7,10,2,6,0,7,5,8,0,0,0,26
 Chris Hollins,Ola Jordan,Viennese Waltz,A New Day Has Come,7,10,3,7,0,8,7,7,0,0,0,29
 Ricky Whittle,Natalie Lowe,American Smooth,Over The Rainbow,7,10,4,9,0,8,9,10,0,0,0,36
 Laila Rouass,Anton du Beke,Waltz,Fascination,7,10,5,6,0,8,8,7,0,0,0,29
-Ricky Grove,Erin Boag,Tango,U Got The Look,7,10,6,5,0,6,5,6,0,0,0,22
+Ricky Groves,Erin Boag,Tango,U Got The Look,7,10,6,5,0,6,5,6,0,0,0,22
 Chris Hollins,Ola Jordan,Charleston,Fat Sam's Grand Slam,7,11,1,8,0,8,9,9,0,0,0,34
 Ricky Whittle,Natalie Lowe,Rock'n'Roll,Hound Dog,7,11,2,7,0,8,8,8,0,0,0,31
 Ali Bastian,Brian Fortuna,Charleston,Pencil Full of Lead,7,11,3,9,0,9,9,10,0,0,0,37
