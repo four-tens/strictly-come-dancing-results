@@ -43,4 +43,4 @@ COPY results FROM '/<absolute-path-to>/results.csv' WITH CSV HEADER;
 
 ## Data
 
-This data was initially sourced and collated from [Ultimate Strictly](http://www.ultimatestrictly.com/), manually sanitised and normalised, with additional data sourced from Wikipedia.
+This data was initially sourced and collated from [Ultimate Strictly](http://www.ultimatestrictly.com/) (link to their [excellent source page](http://www.ultimatestrictly.com/acknowledgements/), manually sanitised and normalised, with additional data sourced from Wikipedia.
