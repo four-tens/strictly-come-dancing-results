@@ -1,4 +1,4 @@
-# four-tens
+# strictly-come-dancing-results
 
 The [Strictly Come Dancing](http://www.bbc.co.uk/strictlycomedancing/) Results Open Dataset
 
