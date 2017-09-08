@@ -35,6 +35,7 @@ CREATE TABLE IF NOT EXISTS results (
     score_darcey INTEGER,
     score_jennifer INTEGER,
     score_donny INTEGER,
+    score_shirley INTEGER,
     total INTEGER
 );
 
