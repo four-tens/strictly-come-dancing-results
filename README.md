@@ -1,5 +1,7 @@
 # strictly-come-dancing-results
 
+[![Build Status](https://travis-ci.org/mrwilson/strictly-come-dancing-results.svg?branch=master)](https://travis-ci.org/mrwilson/strictly-come-dancing-results)
+
 The [Strictly Come Dancing](http://www.bbc.co.uk/strictlycomedancing/) Results Open Dataset
 
 ## Contents
@@ -44,4 +46,4 @@ COPY results FROM '/<absolute-path-to>/results.csv' WITH CSV HEADER;
 
 ## Data
 
-This data was initially sourced and collated from [Ultimate Strictly](http://www.ultimatestrictly.com/) (link to their [excellent source page](http://www.ultimatestrictly.com/acknowledgements/), manually sanitised and normalised, with additional data sourced from Wikipedia.
+This data was initially sourced and collated from [Ultimate Strictly](http://www.ultimatestrictly.com/) (link to their [excellent source page](http://www.ultimatestrictly.com/acknowledgements/)), manually sanitised and normalised, with additional data sourced from Wikipedia.
