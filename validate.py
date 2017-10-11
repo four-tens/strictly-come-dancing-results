@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import csv
+import collections
 
 class ResultConsistencyCheck(object):
     def __init__(self):
@@ -12,10 +13,18 @@ class ResultConsistencyCheck(object):
             derived_total = sum([int(value) for column, value in row.iteritems() if "score_" in column])
             actual_total = int(row['total'])
             assert derived_total == actual_total, "[FAIL] Inconsistent total score in row: %s" % row
-        print "[PASS] Row totals consistent"
+        print("[PASS] All dances have consistent totals")
 
+        
+    def series_week_runningorder_should_be_unique(self):
+        unique_ids = [ "%s-%s-%s" % (row['series'], row['week'], row['running_order']) for row in self.results]
+        counts = [item for item, count in collections.Counter(unique_ids).items() if count > 1]
+        assert not counts, "[FAIL] Non-unique identifiers: %s" % counts
+        print("[PASS] All dances have unique identifiers")
+        
     def run(self):
         self.scores_should_add_up()
+        self.series_week_runningorder_should_be_unique()
 
 if __name__ == "__main__":
     ResultConsistencyCheck().run()
