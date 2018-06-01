@@ -12,13 +12,10 @@ The [Strictly Come Dancing](http://www.bbc.co.uk/strictlycomedancing/) Results O
 
 ## Reading into a database
 
-Using PostgreSQL
+Using SQLite
 
 ```sql
-CREATE DATABASE strictly_results;
-
-\connect strictly_results;
-
+-- Set up table
 CREATE TABLE IF NOT EXISTS results (
     celebrity_id INTEGER,
     professional_id INTEGER,
@@ -30,18 +27,19 @@ CREATE TABLE IF NOT EXISTS results (
     week INTEGER,
     running_order INTEGER,
     score_craig INTEGER,
-    score_arlene INTEGER,
-    score_len INTEGER,
-    score_bruno INTEGER,
-    score_alesha INTEGER,
-    score_darcey INTEGER,
+    score_arlene INTEGE score_darcey INTEGER,
     score_jennifer INTEGER,
     score_donny INTEGER,
     score_shirley INTEGER,
-    total INTEGER
+    total INTEGERR,
+    score_len INTEGER,
+    score_bruno INTEGER,
+    score_alesha INTEGER,
 );
 
-COPY results FROM '/<absolute-path-to>/results.csv' WITH CSV HEADER;
+-- Import data
+.mode csv
+.import results.csv results
 ```
 
 ## Data
