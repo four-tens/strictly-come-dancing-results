@@ -10,9 +10,12 @@ The [Strictly Come Dancing](http://www.bbc.co.uk/strictlycomedancing/) Results O
  * Professionals
  * Results
 
-## Reading into a database
+## Reading into a database - SQLite
 
-Using SQLite
+Create data-source without headers
+```bash
+$ tail -n+2 results.csv > results_no_header.csv
+```
 
 ```sql
 -- Set up table
@@ -27,19 +30,20 @@ CREATE TABLE IF NOT EXISTS results (
     week INTEGER,
     running_order INTEGER,
     score_craig INTEGER,
-    score_arlene INTEGE score_darcey INTEGER,
-    score_jennifer INTEGER,
-    score_donny INTEGER,
-    score_shirley INTEGER,
-    total INTEGERR,
+    score_arlene INTEGER,
     score_len INTEGER,
     score_bruno INTEGER,
     score_alesha INTEGER,
+    score_darcey INTEGER,
+    score_jennifer INTEGER,
+    score_donny INTEGER,
+    score_shirley INTEGER,
+    total INTEGER
 );
 
 -- Import data
 .mode csv
-.import results.csv results
+.import results_no_header.csv results
 ```
 
 ## Data
