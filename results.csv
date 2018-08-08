@@ -1,7 +1,7 @@
 celebrity_id,professional_id,celebrity,professional,dance,song,series,week,running_order,score_craig,score_arlene,score_len,score_bruno,score_alesha,score_darcey,score_jennifer,score_donny,score_shirley,total
 0,0,Natasha Kaplinsky,Brendan Cole,Cha-cha-cha,Chain Of Fools,1,1,1,5,7,8,7,0,0,0,0,0,27
 1,1,Lesley Garrett,Anton du Beke,Waltz,He Was Beautiful,1,1,2,6,8,8,7,0,0,0,0,0,29
-2,2,Chris Parker,Hanna Karttunen,Cha-cha-cha,Lady Marmalade,1,1,3,4,4,7,4,0,0,0,0,0,19
+2,2,Christopher Parker,Hanna Karttunen,Cha-cha-cha,Lady Marmalade,1,1,3,4,4,7,4,0,0,0,0,0,19
 3,3,Jason Wood,Kylie Jones,Waltz,Three Times A Lady,1,1,4,5,5,6,5,0,0,0,0,0,21
 4,4,Verona Joseph,Paul Killick,Cha-cha-cha,R.E.S.P.E.C.T,1,1,5,7,6,7,7,0,0,0,0,0,27
 5,5,Claire Sweeney,John Byrness,Waltz,Unchained Melody,1,1,6,7,7,8,5,0,0,0,0,0,27
@@ -9,7 +9,7 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 7,7,Martin Offiah,Erin Boag,Waltz,Come Away With Me,1,1,8,5,6,7,7,0,0,0,0,0,25
 0,0,Natasha Kaplinsky,Brendan Cole,Quickstep,The Lady Is A Tramp,1,2,1,7,8,8,8,0,0,0,0,0,31
 7,7,Martin Offiah,Erin Boag,Rumba,Hero,1,2,2,3,5,7,6,0,0,0,0,0,21
-2,2,Chris Parker,Hanna Karttunen,Quickstep,You're The One That I Want,1,2,3,5,6,6,6,0,0,0,0,0,23
+2,2,Christopher Parker,Hanna Karttunen,Quickstep,You're The One That I Want,1,2,3,5,6,6,6,0,0,0,0,0,23
 5,5,Claire Sweeney,John Byrness,Rumba,Angels,1,2,4,6,6,7,7,0,0,0,0,0,26
 4,4,Verona Joseph,Paul Killick,Quickstep,If My Friends Could See Me Now,1,2,5,6,6,6,6,0,0,0,0,0,24
 3,3,Jason Wood,Kylie Jones,Rumba,Leave Right Now,1,2,6,2,5,7,5,0,0,0,0,0,19
@@ -19,40 +19,40 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 1,1,Lesley Garrett,Anton du Beke,Tango,Sensation,1,3,2,7,8,7,7,0,0,0,0,0,29
 7,7,Martin Offiah,Erin Boag,Jive,Great Balls Of Fire,1,3,3,5,5,5,6,0,0,0,0,0,21
 6,6,David Dickinson,Camilla Dallerup,Tango,La Cumparsita,1,3,4,4,6,5,5,0,0,0,0,0,20
-2,2,Chris Parker,Hanna Karttunen,Jive,Do You Love Me?,1,3,5,5,4,5,5,0,0,0,0,0,19
+2,2,Christopher Parker,Hanna Karttunen,Jive,Do You Love Me?,1,3,5,5,4,5,5,0,0,0,0,0,19
 5,5,Claire Sweeney,John Byrness,Tango,Roxanne,1,3,6,8,9,9,8,0,0,0,0,0,34
 0,0,Natasha Kaplinsky,Brendan Cole,Jive,"Jump, Jive And Wail",1,3,7,7,7,5,7,0,0,0,0,0,26
 5,5,Claire Sweeney,John Byrness,Paso Doble,Espana Cani,1,4,1,8,8,7,8,0,0,0,0,0,31
-2,2,Chris Parker,Hanna Karttunen,Foxtrot,Flying Without Wings,1,4,2,6,7,8,7,0,0,0,0,0,28
+2,2,Christopher Parker,Hanna Karttunen,Foxtrot,Flying Without Wings,1,4,2,6,7,8,7,0,0,0,0,0,28
 4,4,Verona Joseph,Paul Killick,Paso Doble,Bolero,1,4,3,5,6,6,7,0,0,0,0,0,24
 0,0,Natasha Kaplinsky,Brendan Cole,Foxtrot,Girl From Ipanema,1,4,4,8,9,9,9,0,0,0,0,0,35
 1,1,Lesley Garrett,Anton du Beke,Paso Doble,Scott & Fran's Paso Doble,1,4,5,7,7,8,8,0,0,0,0,0,30
 7,7,Martin Offiah,Erin Boag,Foxtrot,Let's Do It (Let's Fall In Love),1,4,6,6,5,7,6,0,0,0,0,0,24
 1,1,Lesley Garrett,Anton du Beke,Samba,Mas Que Nada,1,5,1,7,6,7,7,0,0,0,0,0,27
 7,7,Martin Offiah,Erin Boag,Samba,Crickets Sing For Ana Maria,1,5,2,5,5,6,6,0,0,0,0,0,22
-2,2,Chris Parker,Hanna Karttunen,Samba,Soul Bossa Nova,1,5,3,3,4,4,4,0,0,0,0,0,15
+2,2,Christopher Parker,Hanna Karttunen,Samba,Soul Bossa Nova,1,5,3,3,4,4,4,0,0,0,0,0,15
 5,5,Claire Sweeney,John Byrness,Samba,Shake Your Bon-Bon,1,5,4,8,8,8,8,0,0,0,0,0,32
 0,0,Natasha Kaplinsky,Brendan Cole,Samba,Love Is In The Air,1,5,5,9,10,9,9,0,0,0,0,0,37
 7,7,Martin Offiah,Erin Boag,Quickstep,It Don't Mean A Thing If You Ain't Got That Swing,1,6,1,5,6,6,7,0,0,0,0,0,24
 0,0,Natasha Kaplinsky,Brendan Cole,Tango,Libertango,1,6,2,8,7,8,8,0,0,0,0,0,31
-2,2,Chris Parker,Hanna Karttunen,Waltz,I Have Nothing,1,6,3,5,6,5,6,0,0,0,0,0,22
+2,2,Christopher Parker,Hanna Karttunen,Waltz,I Have Nothing,1,6,3,5,6,5,6,0,0,0,0,0,22
 1,1,Lesley Garrett,Anton du Beke,Foxtrot,I've Got You Under My Skin,1,6,4,8,8,9,9,0,0,0,0,0,34
 7,7,Martin Offiah,Erin Boag,Cha-cha-cha,Smooth,1,6,5,6,6,6,6,0,0,0,0,0,24
 0,0,Natasha Kaplinsky,Brendan Cole,Rumba,Endless Love,1,6,6,9,9,9,9,0,0,0,0,0,36
-2,2,Chris Parker,Hanna Karttunen,Paso Doble,Bamboleo,1,6,7,3,4,5,3,0,0,0,0,0,15
+2,2,Christopher Parker,Hanna Karttunen,Paso Doble,Bamboleo,1,6,7,3,4,5,3,0,0,0,0,0,15
 1,1,Lesley Garrett,Anton du Beke,Cha-cha-cha,Spinning Around,1,6,8,6,6,7,7,0,0,0,0,0,26
 1,1,Lesley Garrett,Anton du Beke,Quickstep,That Old Black Magic,1,7,1,8,8,8,9,0,0,0,0,0,33
 0,0,Natasha Kaplinsky,Brendan Cole,Waltz,With You I'm Born Again,1,7,2,9,9,9,9,0,0,0,0,0,36
-2,2,Chris Parker,Hanna Karttunen,Tango,Toxic,1,7,3,2,6,7,6,0,0,0,0,0,21
+2,2,Christopher Parker,Hanna Karttunen,Tango,Toxic,1,7,3,2,6,7,6,0,0,0,0,0,21
 1,1,Lesley Garrett,Anton du Beke,Jive,My Baby Just Cares For Me,1,7,4,7,7,8,7,0,0,0,0,0,29
 0,0,Natasha Kaplinsky,Brendan Cole,Paso Doble,O Fortuna,1,7,5,8,9,9,9,0,0,0,0,0,35
-2,2,Chris Parker,Hanna Karttunen,Rumba,Careless Whisper,1,7,6,2,4,5,5,0,0,0,0,0,16
+2,2,Christopher Parker,Hanna Karttunen,Rumba,Careless Whisper,1,7,6,2,4,5,5,0,0,0,0,0,16
 0,0,Natasha Kaplinsky,Brendan Cole,Quickstep,The Lady Is A Tramp,1,8,1,9,9,9,9,0,0,0,0,0,36
-2,2,Chris Parker,Hanna Karttunen,Waltz,I Have Nothing,1,8,2,6,5,6,7,0,0,0,0,0,24
+2,2,Christopher Parker,Hanna Karttunen,Waltz,I Have Nothing,1,8,2,6,5,6,7,0,0,0,0,0,24
 0,0,Natasha Kaplinsky,Brendan Cole,Samba,Love Is In The Air,1,8,3,7,7,9,8,0,0,0,0,0,31
-2,2,Chris Parker,Hanna Karttunen,Jive,Do You Love Me?,1,8,4,3,3,7,4,0,0,0,0,0,17
+2,2,Christopher Parker,Hanna Karttunen,Jive,Do You Love Me?,1,8,4,3,3,7,4,0,0,0,0,0,17
 0,0,Natasha Kaplinsky,Brendan Cole,Show dance,(I've Had) The Time Of My Life,1,8,5,8,9,9,9,0,0,0,0,0,35
-2,2,Chris Parker,Hanna Karttunen,Show dance,Fame!,1,8,6,4,6,7,5,0,0,0,0,0,22
+2,2,Christopher Parker,Hanna Karttunen,Show dance,Fame!,1,8,6,4,6,7,5,0,0,0,0,0,22
 8,7,Julian Clary,Erin Boag,Cha-cha-cha,I'm Outta Love,2,1,1,4,4,5,6,0,0,0,0,0,19
 9,4,Carol Vorderman,Paul Killick,Waltz,Abergavenny,2,1,2,5,6,5,6,0,0,0,0,0,22
 10,8,Diarmuid Gavin,Nicole Cutler,Cha-cha-cha,September,2,1,3,2,2,4,4,0,0,0,0,0,12
@@ -217,7 +217,7 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 34,18,DJ Spoony,Ola Jordan,Cha-cha-cha,Kiss,4,1,5,5,7,8,7,0,0,0,0,0,27
 35,19,Jimmy Tarbuck,Flavia Cacace,Waltz,See The Day,4,1,6,3,4,5,5,0,0,0,0,0,17
 36,16,Mark Ramprakash,Karen Hardy,Cha-cha-cha,Let's Get Loud,4,1,7,7,7,7,6,0,0,0,0,0,27
-37,13,Carol Smilie,Matthew Cutler,Quickstep,Nine To Five,4,2,1,7,5,6,7,0,0,0,0,0,25
+37,13,Carol Smillie,Matthew Cutler,Quickstep,Nine To Five,4,2,1,7,5,6,7,0,0,0,0,0,25
 38,10,Mica Paris,Ian Waite,Rumba,Give Me Something,4,2,2,3,5,6,6,0,0,0,0,0,20
 39,20,Louisa Lytton,Vincent Simone,Quickstep,Don't Get Me Wrong,4,2,3,7,8,6,7,0,0,0,0,0,28
 40,21,Georgina Bouzova,James Jordan,Rumba,Let's Get It On,4,2,4,3,2,5,4,0,0,0,0,0,14
@@ -225,7 +225,7 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 42,0,Claire King,Brendan Cole,Rumba,Show Me Heaven,4,2,6,7,4,4,6,0,0,0,0,0,21
 43,12,Emma Bunton,Darren Bennett,Quickstep,I Got Rhythm,4,2,7,8,8,8,9,0,0,0,0,0,33
 32,6,Ray Fearon,Camilla Dallerup,Tango,"Money, Money, Money",4,3,1,7,6,8,8,0,0,0,0,0,29
-37,13,Carol Smilie,Matthew Cutler,Jive,Hanky Panky,4,3,2,6,7,7,7,0,0,0,0,0,27
+37,13,Carol Smillie,Matthew Cutler,Jive,Hanky Panky,4,3,2,6,7,7,7,0,0,0,0,0,27
 30,11,Matt Dawson,Lilia Kopylova,Tango,Stand By Me,4,3,3,8,7,7,8,0,0,0,0,0,30
 40,21,Georgina Bouzova,James Jordan,Jive,Burning Love,4,3,4,3,3,6,6,0,0,0,0,0,18
 34,18,DJ Spoony,Ola Jordan,Tango,Tango D'Amour,4,3,5,6,7,7,7,0,0,0,0,0,27
@@ -239,7 +239,7 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 30,11,Matt Dawson,Lilia Kopylova,Paso Doble,I Would Do Anything For Love (But I Won't Do That),4,4,2,7,7,7,7,0,0,0,0,0,28
 41,1,Jan Ravens,Anton du Beke,Foxtrot,Night And Day,4,4,3,5,5,7,7,0,0,0,0,0,24
 36,16,Mark Ramprakash,Karen Hardy,Paso Doble,Scott & Fran's Paso Doble,4,4,4,8,9,9,9,0,0,0,0,0,35
-37,13,Carol Smilie,Matthew Cutler,Foxtrot,Stuck On You,4,4,5,6,7,8,8,0,0,0,0,0,29
+37,13,Carol Smillie,Matthew Cutler,Foxtrot,Stuck On You,4,4,5,6,7,8,8,0,0,0,0,0,29
 40,21,Georgina Bouzova,James Jordan,Foxtrot,Have You Met Miss Jones?,4,4,6,5,6,8,7,0,0,0,0,0,26
 33,7,Peter Schmeichel,Erin Boag,Paso Doble,Theme From Mission Impossible,4,4,7,2,5,6,6,0,0,0,0,0,19
 39,20,Louisa Lytton,Vincent Simone,Foxtrot,Take Another Piece Of My Heart,4,4,8,7,5,6,8,0,0,0,0,0,26
@@ -251,7 +251,7 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 32,6,Ray Fearon,Camilla Dallerup,Viennese Waltz,I'll Make Love To You,4,5,4,8,9,9,9,0,0,0,0,0,35
 42,0,Claire King,Brendan Cole,Salsa,Senorita,4,5,5,4,5,6,6,0,0,0,0,0,21
 43,12,Emma Bunton,Darren Bennett,Viennese Waltz,Kiss From A Rose,4,5,6,8,9,8,9,0,0,0,0,0,34
-37,13,Carol Smilie,Matthew Cutler,Salsa,Don't Stop Til You Get Enough,4,5,7,7,6,8,8,0,0,0,0,0,29
+37,13,Carol Smillie,Matthew Cutler,Salsa,Don't Stop Til You Get Enough,4,5,7,7,6,8,8,0,0,0,0,0,29
 33,7,Peter Schmeichel,Erin Boag,Viennese Waltz,Have You Ever Really Loved A Woman?,4,5,8,6,7,8,7,0,0,0,0,0,28
 36,16,Mark Ramprakash,Karen Hardy,Salsa,"Hot, Hot, Hot",4,5,9,9,9,9,9,0,0,0,0,0,36
 32,6,Ray Fearon,Camilla Dallerup,Samba,I Don't Feel Like Dancing,4,6,1,6,6,7,7,0,0,0,0,0,26
@@ -261,26 +261,26 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 39,20,Louisa Lytton,Vincent Simone,Samba,Rhythm Of The Night,4,6,5,8,8,8,8,0,0,0,0,0,32
 30,11,Matt Dawson,Lilia Kopylova,American Smooth,You Make Me Feel So Young,4,6,6,8,8,9,9,0,0,0,0,0,34
 33,7,Peter Schmeichel,Erin Boag,Samba,Use It Up And Wear It Out,4,6,7,3,4,6,6,0,0,0,0,0,19
-37,13,Carol Smilie,Matthew Cutler,American Smooth,It's Oh So Quiet,4,6,8,6,7,7,7,0,0,0,0,0,27
+37,13,Carol Smillie,Matthew Cutler,American Smooth,It's Oh So Quiet,4,6,8,6,7,7,7,0,0,0,0,0,27
 43,12,Emma Bunton,Darren Bennett,Cha-cha-cha,All Right Now,4,7,1,7,7,7,9,0,0,0,0,0,30
 42,0,Claire King,Brendan Cole,Tango,Ole Guapa,4,7,2,8,8,6,7,0,0,0,0,0,29
 36,16,Mark Ramprakash,Karen Hardy,Rumba,Right Here Waiting,4,7,3,5,6,8,8,0,0,0,0,0,27
-37,13,Carol Smilie,Matthew Cutler,Cha-cha-cha,Dancing In The Moonlight,4,7,4,7,7,8,8,0,0,0,0,0,30
+37,13,Carol Smillie,Matthew Cutler,Cha-cha-cha,Dancing In The Moonlight,4,7,4,7,7,8,8,0,0,0,0,0,30
 33,7,Peter Schmeichel,Erin Boag,Foxtrot,Something's Gotta Give,4,7,5,6,6,7,7,0,0,0,0,0,26
 39,20,Louisa Lytton,Vincent Simone,Tango,Sweet Dreams (Are Made Of This),4,7,6,8,9,9,9,0,0,0,0,0,35
 30,11,Matt Dawson,Lilia Kopylova,Waltz,What A Wonderful World,4,7,7,9,9,10,9,0,0,0,0,0,37
 30,11,Matt Dawson,Lilia Kopylova,Jive,I Feel Good,4,8,1,6,7,8,7,0,0,0,0,0,28
-37,13,Carol Smilie,Matthew Cutler,Waltz,If You Don't Know Me By Now,4,8,2,7,7,8,8,0,0,0,0,0,30
+37,13,Carol Smillie,Matthew Cutler,Waltz,If You Don't Know Me By Now,4,8,2,7,7,8,8,0,0,0,0,0,30
 39,20,Louisa Lytton,Vincent Simone,Paso Doble,Left Outside Alone,4,8,3,8,8,9,9,0,0,0,0,0,34
 43,12,Emma Bunton,Darren Bennett,American Smooth,Anything Goes,4,8,4,8,8,9,9,0,0,0,0,0,34
 42,0,Claire King,Brendan Cole,Samba,I Love To Love,4,8,5,5,5,8,7,0,0,0,0,0,25
 36,16,Mark Ramprakash,Karen Hardy,Viennese Waltz,Piano Man,4,8,6,9,9,9,9,0,0,0,0,0,36
-37,13,Carol Smilie,Matthew Cutler,Viennese Waltz,Breakaway,4,9,1,8,8,9,9,0,0,0,0,0,34
+37,13,Carol Smillie,Matthew Cutler,Viennese Waltz,Breakaway,4,9,1,8,8,9,9,0,0,0,0,0,34
 30,11,Matt Dawson,Lilia Kopylova,Quickstep,Walking On Sunshine,4,9,2,8,8,9,9,0,0,0,0,0,34
 43,12,Emma Bunton,Darren Bennett,Waltz,The Way We Were,4,9,3,9,8,10,10,0,0,0,0,0,37
 36,16,Mark Ramprakash,Karen Hardy,Foxtrot,California Dreaming,4,9,4,7,7,7,7,0,0,0,0,0,28
 39,20,Louisa Lytton,Vincent Simone,Viennese Waltz,That's Amore,4,9,5,8,8,8,9,0,0,0,0,0,33
-37,13,Carol Smilie,Matthew Cutler,Samba,Club Tropicana,4,9,6,7,9,9,9,0,0,0,0,0,34
+37,13,Carol Smillie,Matthew Cutler,Samba,Club Tropicana,4,9,6,7,9,9,9,0,0,0,0,0,34
 30,11,Matt Dawson,Lilia Kopylova,Rumba,The Blower's Daughter,4,9,7,6,6,8,7,0,0,0,0,0,27
 43,12,Emma Bunton,Darren Bennett,Paso Doble,Explosive,4,9,8,9,9,9,10,0,0,0,0,0,37
 36,16,Mark Ramprakash,Karen Hardy,Samba,I Go To Rio,4,9,9,9,9,9,9,0,0,0,0,0,36
@@ -314,16 +314,16 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 48,6,Gethin Jones,Camilla Dallerup,Cha-cha-cha,I Haven�t Stopped Dancing Yet,5,1,5,4,5,7,6,0,0,0,0,0,22
 49,18,Kenny Logan,Ola Jordan,Waltz,Are You Lonesome Tonight?,5,1,6,4,5,6,6,0,0,0,0,0,21
 50,8,John Barnes,Nicole Cutler,Cha-cha-cha,Uptight,5,1,7,6,6,7,7,0,0,0,0,0,26
-51,20,Stephane Beacham,Vincent Simone,Quickstep,Suddenly I See,5,2,1,6,6,6,6,0,0,0,0,0,24
+51,20,Stephanie Beacham,Vincent Simone,Quickstep,Suddenly I See,5,2,1,6,6,6,6,0,0,0,0,0,24
 52,12,Letitia Dean,Darren Bennett,Rumba,How Deep Is Your Love?,5,2,2,4,6,7,6,0,0,0,0,0,23
 53,1,Kate Garraway,Anton du Beke,Quickstep,Love Machine,5,2,3,2,4,5,4,0,0,0,0,0,15
 54,13,Alesha Dixon,Matthew Cutler,Rumba,Hurt,5,2,4,8,7,8,8,0,0,0,0,0,31
-55,10,Penny Lancaster Stewart,Ian Waite,Quickstep,I'm Sitting On Top Of The World,5,2,5,8,8,8,9,0,0,0,0,0,33
+55,10,Penny Lancaster,Ian Waite,Quickstep,I'm Sitting On Top Of The World,5,2,5,8,8,8,9,0,0,0,0,0,33
 56,0,Kelly Brook,Brendan Cole,Rumba,She's Like The Wind,5,2,6,8,9,8,8,0,0,0,0,0,33
 57,21,Gabby Logan,James Jordan,Quickstep,Things,5,2,7,8,7,7,7,0,0,0,0,0,29
 57,21,Gabby Logan,James Jordan,Jive,Saturday Night's Alright (For Fighting),5,3,1,8,7,8,8,0,0,0,0,0,31
 48,6,Gethin Jones,Camilla Dallerup,Tango,Gold,5,3,2,6,7,8,8,0,0,0,0,0,29
-55,10,Penny Lancaster Stewart,Ian Waite,Jive,Don't Stop Me Now,5,3,3,5,6,7,7,0,0,0,0,0,25
+55,10,Penny Lancaster,Ian Waite,Jive,Don't Stop Me Now,5,3,3,5,6,7,7,0,0,0,0,0,25
 49,18,Kenny Logan,Ola Jordan,Tango,Call Me,5,3,4,6,6,7,6,0,0,0,0,0,25
 44,19,Matt Di Angelo,Flavia Cacace,Jive,"Shake, Rattle & Roll",5,3,5,7,7,8,8,0,0,0,0,0,30
 53,1,Kate Garraway,Anton du Beke,Tango,They,5,3,6,4,5,5,5,0,0,0,0,0,19
@@ -342,7 +342,7 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 56,0,Kelly Brook,Brendan Cole,American Smooth,(Love Is) The Tender Trap,5,4,7,8,8,8,10,0,0,0,0,0,34
 48,6,Gethin Jones,Camilla Dallerup,Samba,More Than A Woman,5,4,8,6,6,7,7,0,0,0,0,0,26
 52,12,Letitia Dean,Darren Bennett,American Smooth,Makin' Whoopee,5,4,9,7,8,8,8,0,0,0,0,0,31
-55,10,Penny Lancaster Stewart,Ian Waite,Samba,These Boots Are Made For Walking,5,4,10,8,7,9,8,0,0,0,0,0,32
+55,10,Penny Lancaster,Ian Waite,Samba,These Boots Are Made For Walking,5,4,10,8,7,9,8,0,0,0,0,0,32
 44,19,Matt Di Angelo,Flavia Cacace,American Smooth,For Once In My Life,5,4,11,9,9,9,9,0,0,0,0,0,36
 56,0,Kelly Brook,Brendan Cole,Paso Doble,You Give Love A Bad Name,5,5,1,7,7,7,7,0,0,0,0,0,28
 50,8,John Barnes,Nicole Cutler,Foxtrot,My Guy,5,5,2,4,6,7,7,0,0,0,0,0,24
@@ -353,9 +353,9 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 46,11,Dominic Littlewood,Lilia Kopylova,Paso Doble,El Gato Montes,5,5,7,5,7,7,6,0,0,0,0,0,25
 53,1,Kate Garraway,Anton du Beke,Foxtrot,I Could Write A Book,5,5,8,5,7,7,7,0,0,0,0,0,26
 44,19,Matt Di Angelo,Flavia Cacace,Paso Doble,Smooth Criminal,5,5,9,7,8,8,8,0,0,0,0,0,31
-55,10,Penny Lancaster Stewart,Ian Waite,Foxtrot,This Can't Be Love,5,5,10,9,8,9,9,0,0,0,0,0,35
+55,10,Penny Lancaster,Ian Waite,Foxtrot,This Can't Be Love,5,5,10,9,8,9,9,0,0,0,0,0,35
 48,6,Gethin Jones,Camilla Dallerup,Viennese Waltz,Falling,5,6,1,9,9,9,9,0,0,0,0,0,36
-55,10,Penny Lancaster Stewart,Ian Waite,Salsa,Higher,5,6,2,6,6,7,6,0,0,0,0,0,25
+55,10,Penny Lancaster,Ian Waite,Salsa,Higher,5,6,2,6,6,7,6,0,0,0,0,0,25
 44,19,Matt Di Angelo,Flavia Cacace,Viennese Waltz,When A Man Loves A Woman,5,6,3,8,6,7,8,0,0,0,0,0,29
 53,1,Kate Garraway,Anton du Beke,Salsa,Peanut Vendor,5,6,4,3,4,6,5,0,0,0,0,0,18
 52,12,Letitia Dean,Darren Bennett,Salsa,Pastime Paradise,5,6,5,6,6,7,6,0,0,0,0,0,25
@@ -1603,7 +1603,7 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 204,44,Debbie McGee,Giovanni Pernice,Paso Doble,Be Italian,15,1,10,8,0,0,7,0,8,0,0,7,30
 193,50,Davood Ghadami,Nadiya Bychkova,Cha-cha-cha,Dedication To My Ex,15,1,11,6,0,0,7,0,7,0,0,7,27
 194,1,Ruth Langsford,Anton du Beke,Waltz,This Nearly Was Mine,15,1,12,3,0,0,5,0,4,0,0,4,16
-196,49,Reverend Richard Coles,Dianne Buswell,Cha-cha-cha,There Must Be An Angel (Playing With My Heart),15,1,13,2,0,0,5,0,4,0,0,6,17
+196,49,Rev. Richard Coles,Dianne Buswell,Cha-cha-cha,There Must Be An Angel (Playing With My Heart),15,1,13,2,0,0,5,0,4,0,0,6,17
 192,48,Mollie King,AJ Pritchard,Jive,Good Golly Miss Molly,15,1,14,4,0,0,6,0,6,0,0,7,23
 199,35,Aston Merrygold,Janette Manrara,Foxtrot,It Had To Be You,15,1,15,7,0,0,8,0,8,0,0,8,31
 203,31,Chizzy Akudolu,Pasha Kovalev,Foxtrot,I'm a Woman,15,2,1,3,0,0,4,0,5,0,0,4,16
@@ -1613,7 +1613,7 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 197,47,Joe McFadden,Katya Jones,Tango,Castle on the Hill,15,2,5,5,0,0,6,0,6,0,0,5,22
 201,51,Brian Conley,Amy Dowden,Cha-cha-cha,Shake Your Groove Thing,15,2,6,3,0,0,6,0,5,0,0,5,19
 195,37,Gemma Atkinson,Aljaž Skorjanec,Waltz,Un Giorno Per Noi,15,2,7,6,0,0,7,0,6,0,0,7,26
-196,49,Reverend Richard Coles,Dianne Buswell,American Smooth,Love Really Hurts Without You,15,2,8,3,0,0,5,0,4,0,0,5,17
+196,49,Rev. Richard Coles,Dianne Buswell,American Smooth,Love Really Hurts Without You,15,2,8,3,0,0,5,0,4,0,0,5,17
 194,1,Ruth Langsford,Anton du Beke,Charleston,The Charleston,15,2,9,3,0,0,6,0,5,0,0,6,20
 198,43,Simon Rimmer,Karen Clifton,Waltz,You'll Never Walk Alone,15,2,10,4,0,0,5,0,4,0,0,6,19
 192,48,Mollie King,AJ Pritchard,Tango,Addicted to Love,15,2,11,4,0,0,7,0,6,0,0,8,25
@@ -1624,7 +1624,7 @@ celebrity_id,professional_id,celebrity,professional,dance,song,series,week,runni
 198,43,Simon Rimmer,Karen Clifton,Quickstep,You've Got A Friend in me,15,3,1,3,0,0,5,0,5,0,0,6,19
 194,1,Ruth Langsford,Anton du Beke,Rumba,Diamonds are Forever,15,3,2,3,0,0,4,0,5,0,0,3,15
 192,48,Mollie King,AJ Pritchard,American Smooth,Climb Every Mountain,15,3,3,7,0,0,8,0,7,0,0,8,30
-96,49,Reverend Richard Coles,Dianne Buswell,Paso Doble,Flash,15,3,4,2,0,0,4,0,4,0,0,4,14
+96,49,Rev. Richard Coles,Dianne Buswell,Paso Doble,Flash,15,3,4,2,0,0,4,0,4,0,0,4,14
 204,44,Debbie McGee,Giovanni Pernice,Quickstep,Let's call the whole thing off,15,3,5,6,0,0,8,0,8,0,0,7,29
 201,51,Brian Conley,Amy Dowden,American Smooth,If I only had a brain,15,3,6,5,0,0,6,0,5,0,0,6,22
 195,37,Gemma Atkinson,Aljaž Skorjanec,Charleston,The Bear Necessities,15,3,7,7,0,0,8,0,8,0,0,8,31
