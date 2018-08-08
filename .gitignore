@@ -1,3 +1,7 @@
 .idea/
 *_no_header.csv
 *.db
+venv/
+
+.ipynb_checkpoints/
+*.ipynb
